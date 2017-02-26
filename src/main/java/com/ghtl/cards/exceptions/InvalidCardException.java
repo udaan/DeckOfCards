@@ -4,7 +4,7 @@ package com.ghtl.cards.exceptions;
  * Exception class in case of Invalid Cards
  */
 public class InvalidCardException extends Exception {
-    static final long serialVersionUID = -687991492884005033L;
+    private static final long serialVersionUID = -687991492884005033L;
 
     public InvalidCardException() {
         super();
